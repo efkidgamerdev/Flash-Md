@@ -16,7 +16,7 @@
         "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"/",
       "required":true
     },
       "AUTO_REACTION":
@@ -85,14 +85,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "frank kaumba"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":false,
-    "value": "254751284190"
+    "value": "265993702468"
   },
     "WARN_COUNT":
   {
